@@ -1,0 +1,16 @@
+{
+  "name": "unite",
+  "repo": "marcusandre/unite",
+  "description": "Easily merge arrays.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
